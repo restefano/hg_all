@@ -1,0 +1,24 @@
+head	1.1;
+access;
+symbols;
+locks
+	gloss354:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2013.08.24.21.12.14;	author gloss354;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@@

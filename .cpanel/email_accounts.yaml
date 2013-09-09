@@ -1,0 +1,19 @@
+--- 
+__version: '2.1'
+glossyme.com.br: 
+  account_count: 3
+  accounts: 
+    contato: 
+      disk_mtime: '1377378734'
+      diskquota: 0
+      diskused: 0
+    marketing: 
+      disk_mtime: '1377378755'
+      diskquota: 0
+      diskused: 0
+    pagamentos: 
+      disk_mtime: '1377378745'
+      diskquota: 0
+      diskused: 0
+  passwd_mtime: '1377378755'
+  quota_mtime: '1377378755'

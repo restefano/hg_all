@@ -1,0 +1,9 @@
+DirectoryIndex index.php index.html
+<IfModule mod_suphp.c>
+	suPHP_ConfigPath /home/gloss354/php.ini
+	<Files php.ini>
+		order allow,deny
+		deny from all
+	</Files>
+</IfModule>
+

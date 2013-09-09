@@ -1,0 +1,6 @@
+Disk quotas for user gloss354 (uid 30098): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+      /dev/sda3       4  1023998976 1023998976               3       0       0        
+      /dev/sda2       0  1023998976 1023998976               0       0       0        
+      /dev/sda7       4  1023998976 1023998976               2       0       0        
+      /dev/sdb1  556428  1023998976 1023998976           44100       0       0        
